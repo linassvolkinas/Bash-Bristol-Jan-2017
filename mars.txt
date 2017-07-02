@@ -1,5 +1,1 @@
-This planet is empty!
-
-Let's try to create as many conflicts as possible.
-
-
+Hello mars
